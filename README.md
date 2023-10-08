@@ -81,7 +81,7 @@ Numbers of events could indicate a big popularity of these 2 makes among clients
 
 ## For More Information
 
-Please review our full analysis in our [Jupyter Notebook](./Index.ipynb) or our [presentation](./Slides.pdf).
+Please review our full analysis in our [Jupyter Notebook](./Index.ipynb) or our [presentation](./presentation.pdf).
 
 Please review our [Tableau public](https://public.tableau.com/app/profile/andy.shen6894/viz/AirsafetyProject10_05_23/Dashboard4) as well.
 
