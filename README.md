@@ -85,7 +85,7 @@ Please review our full analysis in our [Jupyter Notebook](./Index.ipynb) or our 
 
 Please review our [Tableau public](https://public.tableau.com/app/profile/andy.shen6894/viz/AirsafetyProject10_05_23/Dashboard4) as well.
 
-For any additional questions, please contact **Andy Shen | itsahaotian@gmail.com, Andrei Hushcha | andrei.hushcha@gmail.com
+For any additional questions, please contact **Andy Shen | itsahaotian@gmail.com, Andrei Hushcha | andrew.hushcha@gmail.com
 
 ## Repository Structure
 
